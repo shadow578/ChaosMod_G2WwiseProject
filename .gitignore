@@ -3,3 +3,6 @@
 GeneratedSoundBanks
 *.wsettings
 *.validationcache
+
+# Tooling
+tool/G2WwiseDataTool.exe

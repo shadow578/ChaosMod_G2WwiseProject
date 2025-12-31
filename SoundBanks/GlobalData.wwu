@@ -14,6 +14,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="ChaosMod_SoundBank" ID="{AD5218F2-C5AE-4289-956E-8D2DA8724915}">
+					<ObjectInclusionList>
+						<ObjectRef Name="play_sfx_flatulence" ID="{120F8BB5-93FA-4A26-978E-0098F0034598}" WorkUnitID="{DCABA37F-79B3-4DFD-9EAA-05565DA248C1}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
